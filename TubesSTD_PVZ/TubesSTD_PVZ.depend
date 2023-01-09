@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672199339 source:d:\cpp project\tpmodule11\tubesstd_pvz\pvz.cpp
+	"pvz.h"
+
+1672198930 d:\cpp project\tpmodule11\tubesstd_pvz\pvz.h
+	<iostream>
+
+1672199365 source:d:\cpp project\tpmodule11\tubesstd_pvz\main.cpp
+	"pvz.h"
+
